@@ -1,0 +1,87 @@
+body {
+    background-color: #E3E2E2;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+h1, h2, h4, h5, h6 {
+    font-family:'Poppins', sans-serif ;
+    color: rgba(22, 6, 68, 0.88);
+}
+h1 {
+   font-style: italic;
+   line-height: 62px;
+   font-size: 62px;
+    
+}
+h2 {
+    font-size: x-large;
+}
+h3 {
+    color: rgba(22, 6, 68, 0.88);
+    font-family: 'Open Sans', sans-serif;
+}
+.customNav {
+    background-position: fixed;
+    width: 100%;
+    height: 72px;
+    background: transparent;
+    background-color: rgba(22, 6, 68, 0.24) !important;
+    background-size: cover;
+    z-index: 10; 
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    
+  }
+  .nav-item {
+    margin: 24px;
+    font-size: 32px;
+    
+}
+.head {
+    margin: 54px;  
+    width: 10px;
+    line-height: 24px; 
+    margin-left: 400px;
+}
+.head1 {
+    text-align: center;
+    width: 600px;
+    margin-left: 35%;
+}
+.jumbotron {
+    display: flex;
+    margin-top: 10%;
+    box-shadow: 4px -0px 5px 4px rgba(0, 0, 0, 0.25);
+    
+}
+.image {
+    border-radius: 12px;
+    background: rgba(47, 32, 87, 0.78);
+    height: 500px;
+    width: 900px;
+    box-shadow: -0px -0px 5px 4px rgba(0, 0, 0, 0.25);
+}
+.display-4 {
+    font-size: 48px;
+    margin: 80px;
+
+}
+.casestudy1 {
+   display: inline;
+    margin: 12%;
+   margin-top: 65px;
+ display: inline-flex;
+}
+.lead {
+    font-size: 24px;
+    width: 700px;
+    color: rgba(22, 6, 68, 0.88);
+    margin: 80px;
+    margin-top: -40px;
+}
