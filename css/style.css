@@ -160,3 +160,22 @@ h4 {
 .spaceup {
     margin-bottom: 32px;
 }
+.left-1 {
+    width: 700px;
+    font-size: 32px;
+    margin-left: 32px;
+    color: rgba(22, 6, 68, 0.88);
+}
+.left-2 {
+    margin-left: 32px;
+    margin-top: 32px;
+}
+.form-group {
+    width: 400px;
+    
+}
+.move {
+    float: right;
+    margin-top: -10%;
+    margin-right: 5%;
+}
